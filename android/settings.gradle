@@ -1,0 +1,3 @@
+rootProject.name = 'brawl_of_the_wild_3799'
+
+include ':app'
